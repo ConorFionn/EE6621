@@ -8,3 +8,6 @@ Project, FPGA programming, Flashing the FPGA module and installation of multi-ta
 * Lab 5 - FPGA Wrapper, Behavioural Simulation, and Post-Synthesis Functional Simulation
 * Lab 6 - PDF not included, instructions and setup for using cadence on the UL server
 * Lab 7 - Compilation of Verilog Source File(s), CLI Simulation, SimVision & FSM Debug
+* Lab 8 - Intro to cadence genus processing, Synthesis to Generic & Synthesis to Mapped.
+* Lab 9 - Applying design settings and importing, Floor & Power planning for physical design, Pin & standard cell placement, CTS, route, filler cells, and finialising the design
+* Lab 10 - Post-Implementation Timing Simulation & GDS View
